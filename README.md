@@ -18,5 +18,4 @@ This repo contains my submission for the Waracle Cake List iOS developer test.
 ###### Below is a list of the libraries that could have been used to make the task easier:
 
 * SDWebImage https://github.com/SDWebImage/SDWebImage - This could have allowed for much less verbose code to be written to handle the asynchronous image downloads and provided useful image caching and placholder functionality.
-* 
-Mockingjay https://github.com/kylef/Mockingjay - This could have allowed for easily written network stubbing when testing the asynchronous network calls removing the need to make real calls in the tests.
+* Mockingjay https://github.com/kylef/Mockingjay - This could have allowed for easily written network stubbing when testing the asynchronous network calls removing the need to make real calls in the tests.
